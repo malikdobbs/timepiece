@@ -1,0 +1,87 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url('/media/black_armani_watch.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
+    color: #F7CCAC;
+    font-family: Lato;
+}
+
+/* from Bulma */
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.logo-font {
+    text-transform: uppercase;
+    font-family: Syncopate;
+}
+
+.top-header {
+    background-color: rgba(0, 0, 0, 0.175);
+}
+
+.main-logo-link {
+    width: fit-content;
+}
+
+.shop-now-button {
+    color: #F7CCAC;
+    border: #F7CCAC 1px solid !important;
+    min-width: 260px;
+}
+
+.btn-beige {
+    background: black;
+    color: #F7CCAC;
+}
+
+.shop-now-button:hover,
+.shop-now-button:active,
+.shop-now-button:focus,
+.btn-beige:hover,
+.btn-beige:active,
+.btn-beige:focus {
+    background: #F7CCAC;
+    border: black 1px solid !important;
+}
+
+.text-beige {
+    color: #F7CCAC !important;
+}
+
+.border-black {
+    border: 1px solid #F7CCAC !important;
+    opacity: 0.7;
+}
+
+/* -------------------------------- Media Queries */
+
+/* Slightly larger container on xl screens */
+@media (min-width: 1200px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+/* fixed top navbar only on medium and up */
+@media (min-width: 992px) {
+    .fixed-top-desktop-only {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
+    .header-container {
+        padding-top: 164px;
+    }
+}
