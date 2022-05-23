@@ -6,8 +6,8 @@ body {
     background: url('/media/black_armani_watch.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #F7CCAC;
-    font-family: Lato;
+    color: #F3E9DD;
+    font-family: Montserrat;
 }
 
 /* from Bulma */
@@ -33,14 +33,14 @@ body {
 }
 
 .shop-now-button {
-    color: #F7CCAC;
-    border: #F7CCAC 1px solid !important;
+    color: #F3E9DD;
+    border: #F3E9DD 1px solid !important;
     min-width: 260px;
 }
 
 .btn-beige {
     background: black;
-    color: #F7CCAC;
+    color: #F3E9DD;
 }
 
 .shop-now-button:hover,
@@ -49,16 +49,16 @@ body {
 .btn-beige:hover,
 .btn-beige:active,
 .btn-beige:focus {
-    background: #F7CCAC;
+    background: #F3E9DD;
     border: black 1px solid !important;
 }
 
 .text-beige {
-    color: #F7CCAC !important;
+    color: #F3E9DD !important;
 }
 
 .border-black {
-    border: 1px solid #F7CCAC !important;
+    border: 1px solid #F3E9DD !important;
     opacity: 0.7;
 }
 
