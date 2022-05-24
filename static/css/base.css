@@ -10,6 +10,10 @@ body {
     font-family: Montserrat;
 }
 
+.fixed-top {
+    position: absolute;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
@@ -25,7 +29,7 @@ body {
 }
 
 .top-header {
-    background-color: rgba(0, 0, 0, 0.175);
+    background-color: rgba(black, 0, 0, 0.5);
 }
 
 .main-logo-link {
@@ -60,6 +64,20 @@ body {
 .border-black {
     border: 1px solid #F3E9DD !important;
     opacity: 0.7;
+}
+
+.card-text {
+    color: #3A3845;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: #3A3845;
+    z-index: -1;
 }
 
 /* -------------------------------- Media Queries */
