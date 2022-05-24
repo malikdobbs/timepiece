@@ -113,6 +113,19 @@ a.category-badge > span.badge:hover {
     color: #F3E9DD;
 }
 
+.btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-decoration: none;
+}
+
+.btt-link {
+    cursor: pointer;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
