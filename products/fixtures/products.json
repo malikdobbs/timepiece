@@ -91,7 +91,7 @@
         "name": "Classics 43mm Mens Watch",
         "description": "A classic three-counter men’s chronograph design with on-trend dial in anthracite grey. Built for the circuit but just as home in any urban context, for men who love speed and seek performance.\" Solid steel 43mm case, fitted bracelet and specially decorated case-back, fine brushed and polished to a luxury gleam, and built to withstand the full pressures of professional racing.\" White Super-LumiNova® lume on the indexes, hour and minute hands enhance the dial’s at-a-glance readability. As does the XXL counter at 6 o’clock and the signature oversized “12”.\" The steel bracelet has a double safety folding clasp to prevent accidental opening and a “Driver” extension for wearing over a racing suit.",
         "price": 794.99,
-        "category": 4,
+        "category": 1,
         "rating": 4.4,
         "image_url": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         "image": "silver_chronograph_watch.jpeg"
@@ -119,7 +119,7 @@
         "name": "G-Timeless Watch",
         "description": "Designed with a steel case and bracelet completed with a silver sunbrushed dial for a tonal look, a new addition to the G-Timeless collection is introduced for Pre-Fall 2019",
         "price": 169.99,
-        "category": 2,
+        "category": 1,
         "rating": 4.7,
         "image_url": "https://images.pexels.com/photos/9897831/pexels-photo-9897831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         "image": "silver_gucci_watch.jpeg"
@@ -483,7 +483,7 @@
         "name": "Rose Necklace",
         "description": "A single rose is classic. Iconic. And layered. It symbolises many things – from miracles and immortality, to love and desire.\" And that’s the beauty of the rose – it’s whatever you need it to be. So we’ve designed our Rose Pendant to symbolise the driving force behind CRAFTD: Passion.\" Passion is your fuel. It pushes you over the start line, propels you forward, and celebrates with you at the finish. And it’s there to start the cycle again. And again. And again.\" Wearing our Rose Pendant is your reminder to ignite your passion",
         "price": 59.99,
-        "category": 6,
+        "category": 5,
         "rating": 4.7,
         "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/crtdrop36.jpg?v=1614967229&width=1680",
         "image": "rose_gold_necklace.webp"
