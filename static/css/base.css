@@ -70,6 +70,11 @@ body {
     color: #3A3845;
 }
 
+.card-img-top {
+    height: 20rem;
+    width: 100%;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
@@ -78,6 +83,10 @@ body {
     position: fixed;
     background: #3A3845;
     z-index: -1;
+}
+
+.horizontal-rule {
+    background-color: #F3E9DD;
 }
 
 /* -------------------------------- Media Queries */
