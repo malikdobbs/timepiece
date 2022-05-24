@@ -1,0 +1,548 @@
+[
+    {
+      "pk": 1,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5001340155",
+        "name": "Fossil Three-Hand Brown Leather Watch",
+        "description": "This Fossil Neutra Chrono men's watch combines tradtitional styling with a rugged, masculine nature. The brushed stainless steel casing surrounds a simple, multifunction cream dial, featuring a discreet date window and a mix of Roman numeral and baton hour markers. The brown leather strap provides durability and comfort, whilst maintaining a handsome style and feel.",
+        "price": 149.99,
+        "category": 1,
+        "rating": 5,
+        "image_url": "https://images.pexels.com/photos/3916049/pexels-photo-3916049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "close_up_watch_fossil.jpeg"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5001600425",
+        "name": "Emporio Armani AR2461 Men's Black Watch",
+        "description": "This Emporio Armani watch has a round face with a matt finish bezel and an analogue display. Paired with a leather band, it will easily match your style. It features a Japanese quartz movement mechanism, giving you the reliability that you need to keep on track. You will look great and exude confidence when you wear this Emporio Armani Sportivo watch",
+        "price": 128.99,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "https://images.pexels.com/photos/404181/pexels-photo-404181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "black_armani_watch.jpeg"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5001730010",
+        "name": "Fossil Grant Men's Chronograph Brown Leather Strap Watch",
+        "description": "Fossil's Grant Chronograph watch oozes smart- casual style. Set on a rich brown leather strap, the chronograph dial is set on a black face with roman numeral hour markers. 3 inset subdials show hours, minutes and seconds",
+        "price": 149.99,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "https://images.pexels.com/photos/3829441/pexels-photo-3829441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "brown_leather_fossil_watch.jpeg"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5001890157",
+        "name": "Rider White Dial - Brown Leather Watch",
+        "description": "Modern elegance in our new Rider. The super flat watch case frames the timeless dial elegantly in white. With a handmade leather strap of finest cowhide, the Rider is a stylish companion for any occasion",
+        "price": 149.99,
+        "category": 1,
+        "rating": 4.4,
+        "image_url": "https://images.pexels.com/photos/236900/pexels-photo-236900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "brown_rider_watch.jpeg"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002111605",
+        "name": "Tissot T-Sport Chrono watch 45mm",
+        "description": "The T-Sport Collection of Tissot watches offers all you could ever want in a sports watch. Built for durability, each guarantees decades of reliability; its resistant materials also allow you to track time both in and out of water. Better still, you can select the style that mirrors your taste. Select from chronograph, traditional and a host of other designs to secure the sports watch that's best for you",
+        "price": 374.99,
+        "category": 1,
+        "rating": 5,
+        "image_url": "https://images.pexels.com/photos/4863119/pexels-photo-4863119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "silver_gold_tissot_watch.jpeg"
+      }
+    },
+    {
+      "pk": 6,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002260206",
+        "name": "Omega De Ville Tresor Men's Black Leather Strap Watch",
+        "description": "Characterised by its thin and elegant case, the Trésor line was first launched by OMEGA in 1949 and housed the legendary 30mm calibre. More than half a century later, it continues to impress with one of today’s most advanced mechanical movements. Boasting a 40mm stainless steel case, this Omega De Ville Trésor watch houses a silver tone dial with 18 carat white gold three-hand movement and indexes, and a date display at the 6 o'clock position. Finished with a smart black leather strap. Inside, this De Ville Trésor is powered by the OMEGA Co-Axial Master Chronometer Calibre 8910 and is certified at the industry’s highest standard of precision, chronometric performance and magnetic resistance",
+        "price": 5810,
+        "category": 1,
+        "rating": 4.9,
+        "image_url": "https://images.pexels.com/photos/9878255/pexels-photo-9878255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "black_gold_omega_watch.jpeg"
+      }
+    },
+    {
+      "pk": 7,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002440521",
+        "name": "Classics 43mm Mens Watch",
+        "description": "A classic three-counter men’s chronograph design with on-trend dial in anthracite grey. Built for the circuit but just as home in any urban context, for men who love speed and seek performance.\" Solid steel 43mm case, fitted bracelet and specially decorated case-back, fine brushed and polished to a luxury gleam, and built to withstand the full pressures of professional racing.\" White Super-LumiNova® lume on the indexes, hour and minute hands enhance the dial’s at-a-glance readability. As does the XXL counter at 6 o’clock and the signature oversized “12”.\" The steel bracelet has a double safety folding clasp to prevent accidental opening and a “Driver” extension for wearing over a racing suit.",
+        "price": 794.99,
+        "category": 4,
+        "rating": 4.4,
+        "image_url": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "silver_chronograph_watch.jpeg"
+      }
+    },
+    {
+      "pk": 8,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002601115",
+        "name": "Black Yellow Gold Rolex Watch",
+        "description": "Beautiful classic gents stainless steel & 18ct yellow Gold Rolex Oyster Perpetual Datejust, newly cleaned and polished and now looking absolutely fabulous in every way. ",
+        "price": 8750,
+        "category": 1,
+        "rating": 4.5,
+        "image_url": "https://images.pexels.com/photos/9898307/pexels-photo-9898307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "black_gold_rolex_watch.jpeg"
+      }
+    },
+    {
+      "pk": 9,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002690715",
+        "name": "G-Timeless Watch",
+        "description": "Designed with a steel case and bracelet completed with a silver sunbrushed dial for a tonal look, a new addition to the G-Timeless collection is introduced for Pre-Fall 2019",
+        "price": 169.99,
+        "category": 2,
+        "rating": 4.7,
+        "image_url": "https://images.pexels.com/photos/9897831/pexels-photo-9897831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "silver_gucci_watch.jpeg"
+      }
+    },
+    {
+      "pk": 10,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002701115",
+        "name": "Calvin Klein Classic Too Ladies Bracelet Watch",
+        "description": "Sleek and chic, this Calvin Klein Classic Too ladies' watch features a round case with flat glass stainless steel, with silver tone line hour markings and co-ordinating hands. A simple yet smart stainless steel bracelet adorns the wrist, and this classic timepiece is water resistant up to 30 metres",
+        "price": 109.99,
+        "category": 1,
+        "rating": 3.9,
+        "image_url": "https://images.pexels.com/photos/6856379/pexels-photo-6856379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "silver_ck_watch.jpeg"
+      }
+    },
+    {
+      "pk": 11,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002761055",
+        "name": "Rado Coupole Classic 41mm Watch",
+        "description": "Inspired by Rado timepieces from the 60s, the Coupole collection showcases distinctly vintage design elements with a contemporary twist.\" Beautifully housed within a 41mm Gold PVD stainless steel case and protected by sapphire crystal glass, this Rado Coupole watch presents a crisp white dial equipped with Gold-tone hands, index hour markers and minute markers around the rim.\" Driven by a powerful automatic movement and water resistant to 50 metres, this high-performance timepiece benefits from an 80-hour power reserve and fastens with a gold strap",
+        "price": 1189.99,
+        "category": 1,
+        "rating": 4.2,
+        "image_url": "https://images.pexels.com/photos/9980309/pexels-photo-9980309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "gold_rado_watch.jpeg"
+      }
+    },
+    {
+      "pk": 12,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002820069",
+        "name": "Montblanc Heritage Automatic Men's Black Leather Strap Watch",
+        "description": "Inspired by historical Minerva classic wristwatches from the 1940s and 1950s, the Montblanc Heritage family combines the elegance of watchmaking's past with today’s bold design codes and technology. The Montblanc Heritage Automatic comes in a 40mm stainless steel case with a silvery-white dial adorned with applied rhodium-coated Arabic numerals, dots as indexes and hands that are enhanced with Super-LumiNova*. The Montblanc Heritage Automatic is powered by Montblanc’s MB 24.27 automatic movement and is equipped with a black sfumato alligator strap coming from the Richemont Pelletteria in Florence, Italy",
+        "price": 1945,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "https://images.pexels.com/photos/9561301/pexels-photo-9561301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "leather_black_mb_watch.jpeg"
+      }
+    },
+    {
+      "pk": 13,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002820147",
+        "name": "Apple Watch Midnight Aluminium Case",
+        "description": "Apple Watch is a wearable smartwatch that allows users to accomplish a variety of tasks, including making phone calls, sending text messages and reading email.",
+        "price": 369.99,
+        "category": 1,
+        "rating": 4,
+        "image_url": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "apple_watch.jpeg"
+      }
+    },
+    {
+      "pk": 14,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002910572",
+        "name": "Citizen Eco-Drive Men's Stainless Steel Bracelet Watch",
+        "description": "This handsome men's Citizen watch, with a stainless steel case and bracelet, is perfectly complemented by the sophisticated deep blue dial. Set with silver tone hour markers, date window and water resistance up to 100 metres; perfect for the modern day businessman. Featuring Citizen's award-winning Eco-Drive technology which harnesses both natural and artificial light and converts it into energy to power the watch - a watch that never needs a battery",
+        "price": 199.99,
+        "category": 1,
+        "rating": 3.7,
+        "image_url": "https://images.pexels.com/photos/592815/pexels-photo-592815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "silver_black_citizen_watch.jpeg"
+      }
+    },
+    {
+      "pk": 15,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5002990740",
+        "name": "Montblanc 1858 Men’s Black Leather Strap Watch",
+        "description": "Inspired by watches conceived for military use and exploration, the Montblanc 1858 watch reinterprets these historical timepieces. This limited addition chronograph watch features a black calf leather strap for complete comfort, while the stainless steel case holds a sleek black dial complemented by historical beige luminescent cathedral-shaped hands and beige luminescent Arabic numerals. A legendary treasure to take you from A to B and way beyond. This watch is water resistant up to 100 metres.",
+        "price": 3939.99,
+        "category": 1,
+        "rating": 4.8,
+        "image_url": "https://images.pexels.com/photos/9898200/pexels-photo-9898200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "gold_black_mb_watch.jpeg"
+      }
+    },
+    {
+      "pk": 16,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003050248",
+        "name": "Montblanc Star Men’s Brown Leather Strap Watch",
+        "description": "Powered by traditional craftsmanship handed down from generation to generation, this brown leather strap watch from Montblanc was made for the modern man. A quality timepiece to treasure, it features an easy-to-read dial, handy date window and a subtle star design, while the sword hands powered by automatic movement will have you arriving right on time.",
+        "price": 1725,
+        "category": 1,
+        "rating": 4.4,
+        "image_url": "https://images.pexels.com/photos/9878151/pexels-photo-9878151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "textured_brown_mb_watch.jpeg"
+      }
+    },
+    {
+      "pk": 17,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003070787",
+        "name": "Rolex - Oyster Perpetual 34",
+        "description": "The aesthetics of the Oyster Perpetual models set them apart as symbols of universal and classic style. They embody timeless form and function, firmly rooted in the pioneering origins of Rolex",
+        "price": 4440,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "https://images.pexels.com/photos/1353065/pexels-photo-1353065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "all_black_rolex_watch.jpeg"
+      }
+    },
+    {
+      "pk": 18,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003090182",
+        "name": "Hublot - Classic Fusion",
+        "description": "Aerofusion Chronograph Orlinksi King Gold Alternative Pavé",
+        "price": 44300,
+        "category": 1,
+        "rating": 4.8,
+        "image_url": "https://images.pexels.com/photos/9561403/pexels-photo-9561403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "hublot_watch.jpeg"
+      }
+    },
+    {
+      "pk": 19,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003090186",
+        "name": "Rolex - Day Date 36",
+        "description": "The Oyster Perpetual Day Date 36 in 18 CT Yellow Gold with a white dial, flucted bezel and a president bracelet",
+        "price": 27250,
+        "category": 1,
+        "rating": 5,
+        "image_url": "https://images.pexels.com/photos/9982007/pexels-photo-9982007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "gold_rolex_watch.jpeg"
+      }
+    },
+    {
+      "pk": 20,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003161326",
+        "name": "Jean Pierre Gold-Plated Double Hunter Skeleton Pocket Watch",
+        "description": "This double hunter watch by Jean Pierre has a beautifully embossed gold-plated case attached to a traditional gold-plated Albert chain. Its back opens to reveal a 17 jewelled mechanical movement with shock protection. A skeleton face, roman numerals",
+        "price": 209.99,
+        "category": 1,
+        "rating": 4.7,
+        "image_url": "https://images.pexels.com/photos/277460/pexels-photo-277460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "image": "pocket_watch.jpeg"
+      }
+    },
+    {
+      "pk": 21,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003230723",
+        "name": "Valentino Black Wallet",
+        "description": "Valentino Bags Kylo Credit Card Unisex Wallet",
+        "price": 21.99,
+        "category": 2,
+        "rating": 4.3,
+        "image_url": "https://img01.ztat.net/article/spp-media-p1/6dbe0e5292a737cc80e9e3f9b2c8c607/7b3b923d3f9a46b18fc75393b495d854.jpg?imwidth=1800&filter=packshot",
+        "image": "valentino_black_wallet.webp"
+      }
+    },
+    {
+      "pk": 22,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003270936",
+        "name": "Ted Baker Brown Wallet",
+        "description": "Rifle Embossed Corner Leather Cardholder",
+        "price": 24.99,
+        "category": 2,
+        "rating": 4.6,
+        "image_url": "https://media.tedbaker.com/t_pdp_dt_xlg_3-5m,f_auto/Product/Mens/244622_TAN_2",
+        "image": "tb_brown_wallet.jpeg"
+      }
+    },
+    {
+      "pk": 23,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003360384",
+        "name": "Aspinall Double Fold Credit Card Holder",
+        "description": "A stylish alternative to a full-sized wallet, our Double Fold Credit Card Holder will slip comfortably into a back pocket or small handbag when you want to travel light.\" Handcrafted from the finest full-grain leather, the compact design has six credit card slots to keep your essentials organised.",
+        "price": 74.99,
+        "category": 2,
+        "rating": 4.8,
+        "image_url": "https://assets.aspinaloflondon.com/images/gallery-image-2021-large/1533931-039-2277-105500003.jpg",
+        "image": "aspinall_navy_wallet.jpeg"
+      }
+    },
+    {
+      "pk": 24,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003440111",
+        "name": "Aspinall Slim Credit Card Holder",
+        "description": "Stay organised in style with our Slim Credit Card Holder.\" Handcrafted from the finest full-grain leather, the design features four external card slots and a central pouch for an additional two cards or folded notes. Compact and lightweight, it will slip easily into a coat pocket or small handbag.",
+        "price": 64.99,
+        "category": 2,
+        "rating": 4,
+        "image_url": "https://assets.aspinaloflondon.com/images/gallery-image-2021-large/1603320-039-2282-267300002.jpg",
+        "image": "aspinall_green_wallet.jpeg"
+      }
+    },
+    {
+      "pk": 25,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003540313",
+        "name": "American Classic Brown Strap 22mm",
+        "description": "The elegant Classic St Mawes strap is made from genuine American leather.",
+        "price": 99.99,
+        "category": 3,
+        "rating": 3.6,
+        "image_url": "https://www.hamiltonwatch.com/media/catalog/product/cache/210d940f9ad047e0498136a433b50fbd/h/6/h6003241151.png",
+        "image": "brown_watch_strap.webp"
+      }
+    },
+    {
+      "pk": 26,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003560513",
+        "name": "American Classic Black Strap 22mm",
+        "description": "The timeless black Classic Sheffield strap is made from genuine American leather",
+        "price": 84.99,
+        "category": 3,
+        "rating": 4.4,
+        "image_url": "https://www.hamiltonwatch.com/media/catalog/product/cache/210d940f9ad047e0498136a433b50fbd/h/6/h6003541061.png",
+        "image": "black_watch_strap.webp"
+      }
+    },
+    {
+      "pk": 27,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003560948",
+        "name": "Jazzmaster Black Strap 20mm",
+        "description": "This genuine calf-skin Italian black leather strap by Swarovski adds glamorous style to your watch. The crocodile-embossed strap features a rose-gold tone coated stainless steel buckle and a quick-release spring bar allowing for an easy fit to your Swarovski watch. It is 20 mm wide and 16 cm long",
+        "price": 85.99,
+        "category": 3,
+        "rating": 4.1,
+        "image_url": "https://www.hamiltonwatch.com/media/catalog/product/cache/210d940f9ad047e0498136a433b50fbd/h/6/h6004251051.png",
+        "image": "leather_black_watch_strap.webp"
+      }
+    },
+    {
+      "pk": 28,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003570628",
+        "name": "38mm Silver Link Bracelet",
+        "description": "Crafted from the same 316L stainless steel alloy as the case, the Link Bracelet has more than 100 components",
+        "price": 149.99,
+        "category": 3,
+        "rating": 4.3,
+        "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MUHJ2?wid=445&hei=445&fmt=jpeg&qlt=95&.v=1566949168437",
+        "image": "silver_smart_watch_strap.jpeg"
+      }
+    },
+    {
+      "pk": 29,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003620308",
+        "name": "42mm Space Black Link Bracelet",
+        "description": "Crafted from the same 316L stainless steel alloy as the case, the Link Bracelet has more than 100 components",
+        "price": 149.99,
+        "category": 3,
+        "rating": 4.6,
+        "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MUHM2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1566949175861",
+        "image": "black_smart_watch_strap.jpeg"
+      }
+    },
+    {
+      "pk": 30,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003690115",
+        "name": "Black Wrist Bracelet",
+        "description": "The Delta is constructed of supple Italian leather and features a bold, high quality magnetic clasp. While a statement-maker on it’s own, it can also be paired with a watch for maximum style",
+        "price": 49.99,
+        "category": 4,
+        "rating": 4.4,
+        "image_url": "https://cdn.shopify.com/s/files/1/0627/5517/products/DoubleBlackMatteBlack_2048x2048.jpg?v=1611167401",
+        "image": "black_bracelet.webp"
+      }
+    },
+    {
+      "pk": 31,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003690116",
+        "name": "Silver Wrist Bracelet",
+        "description": "Simple is always best when it comes to your every day. Handcrafted in 925 sterling silver, and Rhodium plated, our box chain bracelet is designed to be worn daily",
+        "price": 44.99,
+        "category": 4,
+        "rating": 4.2,
+        "image_url": "https://cdn.shopify.com/s/files/1/0627/5517/products/BoxBracelet_Silver1_540x.jpg?v=1650314618",
+        "image": "silver_bracelet.webp"
+      }
+    },
+    {
+      "pk": 32,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003780391",
+        "name": "Brown Wrist Bracelet",
+        "description": "The Delta is constructed of supple Italian leather and features a bold, high quality magnetic clasp. While a statement-maker on it’s own, it can also be paired with a watch for maximum style",
+        "price": 44.99,
+        "category": 4,
+        "rating": 4.4,
+        "image_url": "https://cdn.shopify.com/s/files/1/0230/0765/products/1Br-Rg-B05-1.jpg?v=1586810017",
+        "image": "brown_bracelet.webp"
+      }
+    },
+    {
+      "pk": 33,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003790542",
+        "name": "Cuban 8mm Set",
+        "description": "Iconic in hip hop culture, the Cuban Chain is the ultimate display of confidence. Big, bold and fresh-as-hell, it’s your message to the world. Don’t mess with me, I’m ready for anything",
+        "price": 99.99,
+        "category": 5,
+        "rating": 4.5,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/Bundle4.jpg?v=1614967226&width=1680",
+        "image": "gold_necklace_bracelt_set.webp"
+      }
+    },
+    {
+      "pk": 34,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003831225",
+        "name": "North Star x Crucifix Set",
+        "description": "We’ve designed our Compass Pendant to guide you along your journey - discover new places, experience new adventures and live a life of freedom: all on your terms. Paired with the Crucifix Pendant, you’re telling the world that you’re a leader - prepared to make the sacrifices needed to get you to where you are destined to be",
+        "price": 107.99,
+        "category": 5,
+        "rating": 4.7,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/GoldCrucifixxNorthStarSet-EcomShot.png?v=1642077964",
+        "image": "gold_star_necklace.webp"
+      }
+    },
+    {
+      "pk": 35,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003861402",
+        "name": "Rose Necklace",
+        "description": "A single rose is classic. Iconic. And layered. It symbolises many things – from miracles and immortality, to love and desire.\" And that’s the beauty of the rose – it’s whatever you need it to be. So we’ve designed our Rose Pendant to symbolise the driving force behind CRAFTD: Passion.\" Passion is your fuel. It pushes you over the start line, propels you forward, and celebrates with you at the finish. And it’s there to start the cycle again. And again. And again.\" Wearing our Rose Pendant is your reminder to ignite your passion",
+        "price": 59.99,
+        "category": 6,
+        "rating": 4.7,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/crtdrop36.jpg?v=1614967229&width=1680",
+        "image": "rose_gold_necklace.webp"
+      }
+    },
+    {
+      "pk": 36,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003910638",
+        "name": "CRAFTD Band Ring",
+        "description": "Leave them in no doubt about who you are with the CRAFTD SIGNATURE ring.\" You’re a leader, a creator and a history maker. You don’t follow the crowd; you CRAFT your own path. And while many will try to imitate, they can’t match your ability to innovate.\" The original. You are CRAFTD",
+        "price": 39.99,
+        "category": 6,
+        "rating": 3.6,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/cfrtd14-8-205_94d06af8-3521-42c7-bfb8-385e29868066.jpg?v=1614967232&width=1680",
+        "image": "gold_band_ring.webp"
+      }
+    },
+    {
+      "pk": 37,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003950574",
+        "name": "CRAFTD Band Ring Stack",
+        "description": "Leave them in no doubt about who you are with the CRAFTD SIGNATURE ring.\" You’re a leader, a creator and a history maker. You don’t follow the crowd; you CRAFT your own path. And while many will try to imitate, they can’t match your ability to innovate.\" The original. You are CRAFTD",
+        "price": 71.99,
+        "category": 6,
+        "rating": 3.4,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/Untitleddesign_3.png?v=1613491836&width=1680",
+        "image": "ring_stack.webp"
+      }
+    },
+    {
+      "pk": 38,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003950576",
+        "name": "Fleurstone Ring",
+        "description": "As iconic duos go, black and gold are definitely up there. Throw in the iconic Fleur de Lis emblem, and you’ve got a masterpiece on your hands. Or fingers…\" Our FLEURSTONE ring features a bold black glass face, framed by an engraved CRAFTD border. Set on a heavyweight band engraved with the Fleur de Lis, this is as good as it gets.\" The original. CRAFTD To Last",
+        "price": 49.99,
+        "category": 6,
+        "rating": 4.5,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/CRAFTD_14_33f4f6a9-cb6b-4440-88d4-38b30fda469e.jpg?v=1627043623&width=1680",
+        "image": "fleurstone_ring.webp"
+      }
+    },
+    {
+      "pk": 39,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5003960062",
+        "name": "Home Expressions Microfiber Twin XL Sheet Set",
+        "description": "As timeless duos go, black and gold are definitely up there. We’ve taken this classic pairing and created the ultimate statement ring. A solid black oval stone is set on an angular band, embellished with the CRAFTD insignia of quality.\"Bold. Classic. Timeless.\" The Original. CRAFTD to LAST",
+        "price": 41.99,
+        "category": 3,
+        "rating": 3.8,
+        "image_url": "https://cdn.shopify.com/s/files/1/0467/9116/4053/products/CRAFTD_16_7140b3a5-1f45-4c48-a6b9-ec2603b32f3e.jpg?v=1628866100&width=1680",
+        "image": "cali_ring.webp"
+      }
+    }
+  ]
