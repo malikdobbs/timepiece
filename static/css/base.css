@@ -98,6 +98,21 @@ body {
     background-color: #F3E9DD;
 }
 
+.category-header {
+    color: #F3E9DD;
+}
+
+.category-header:hover,
+.category-header:focus,
+.category-header:active {
+    color: #F3E9DD;
+}
+
+a.category-badge > span.badge:hover {
+    background: #3A3845 !important;
+    color: #F3E9DD;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
