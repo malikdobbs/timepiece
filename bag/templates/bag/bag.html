@@ -23,6 +23,8 @@
             <div class="col">
                 {% if bag_items %}
                     <div class="table-responsive rounded">
+                        {{ bag_items }}
+                    </div>
                 {% else %}
                     <p class="lead mb-5">Your bag is empty</p>
                     <a href="{% url 'products' %}" class="btn btn-outline-beige rounded-0 btn-lg">
@@ -31,7 +33,6 @@
                         </span>
                         <span class="text-uppercase text-beige">Keep Shopping</span>
                     </a>
-                    </div>
                 {% endif %}
             </div>
         </div>
