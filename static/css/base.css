@@ -64,12 +64,24 @@ body {
     border: 1px solid #3A3845;
 }
 
+.btn-checkout {
+    background: #3A3845;
+    color: #F3E9DD;
+    border: #F3E9DD 1px solid;
+}
+
 .btn-outline-beige:hover,
 .btn-outline-beige:active,
 .btn-outline-beige:focus {
     background: #F3E9DD;
     color: #3A3845 !important;
     border: #3A3845 1px solid;
+}
+
+.btn-checkout:hover,
+.btn-checkout:active,
+.btn-checkout:focus {
+    color: #F3E9DD;
 }
 
 .shop-now-button:hover,
