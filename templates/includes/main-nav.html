@@ -33,7 +33,7 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-beige" href="#" id="jewellery-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-beige mr-5" href="#" id="jewellery-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Jewellery
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="jewellery-link">
@@ -41,6 +41,14 @@
                 <a href="{% url 'products' %}?category=necklaces" class="dropdown-item logo-font">Necklaces</a>
                 <a href="{% url 'products' %}?category=rings" class="dropdown-item logo-font">Rings</a>
                 <a href="{% url 'products' %}?category=bracelets,necklaces,rings" class="dropdown-item logo-font">All Jewellery</a>
+            </div>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-beige mr-5" href="#" id="blog-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Blog
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="accessories-link">
+                <a href="{% url 'blog_post' %}" class="dropdown-item logo-font">Blog</a>
             </div>
         </li>
     </ul>
