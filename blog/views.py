@@ -1,11 +1,11 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from .models import Post
 
 def blog_post(request):
-    blog_posts = Post.objects.filter(status=1).order_by('-created_on')
+    post_list = Post.objects.filter(status=1).order_by('-created_on')
 
     context = {
-        'blog_posts': blog_posts
+        'post_list': post_list,
     }
 
-    return render(request, 'blog/blog.html')
+    return render(request, 'blog/blog.html', context)

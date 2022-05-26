@@ -107,6 +107,11 @@ body {
     color: #3A3845;
 }
 
+.blog-card {
+    background-color: inherit;
+    border: 1px solid #F3E9DD;
+}
+
 .card-img-top {
     height: 20rem;
     width: 100%;

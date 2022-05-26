@@ -15,8 +15,27 @@
             <div class="row">
                 <div class="col text-center mt-3">
                     <br>
-                    <h2 class="logo-font">Welcome to our Blog..!</h2>
+                    <h2 class="logo-font">Welcome to our Blog..!!</h2>
+                    <hr class="w-50 horizontal-rule">
+                    <br>
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    {% for post in post_list %}
+                        <div class="card blog-card mb-4 w-75">
+                            <div class="card-body text-beige">
+                                <h2 class="card-title">{{ post.title }}</h2>
+                                <p class="h6">{{ post.author }} | {{ post.created_on}} </p>
+                                <p class="">{{post.content|slice:":200" }}</p>
+                                <a href="" class="btn btn-beige">Read More &rarr;</a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
 {% endblock %}
