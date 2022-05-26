@@ -1,0 +1,27 @@
+{% extends 'base.html' %} 
+
+{% block page_header %}
+    <div class="header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+
+<div class="overlay"></div>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 card blog-card mb-4 mt-3 left top">
+            <div class="card-body text-beige">
+                <h1>{% block title %} {{ object.title }} {% endblock title %}</h1>
+                <p class="text-beige ">{{ post.content | safe }}</p>
+                <p class="text-beige">{{ post.author }} | {{ post.created_on }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock content %}
