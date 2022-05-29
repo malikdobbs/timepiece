@@ -94,6 +94,18 @@ body {
     border: #3A3845 1px solid !important;
 }
 
+.btn-increment {
+    background: #3A3845;
+    color: #F3E9DD;
+    border: #F3E9DD 1px solid;
+}
+
+.btn-increment:hover,
+.btn-increment:focus,
+.btn-increment:active {
+    color: #F3E9DD;
+}
+
 .text-beige {
     color: #F3E9DD !important;
 }
