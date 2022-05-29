@@ -304,6 +304,33 @@ a.category-badge > span.badge:hover {
 	color: #F3E9DD; /* text-info */
 }
 
+/* Product Form */
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type="file"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.custom-checkbox .custom-control-label::before {
+    border-radius: 0;
+    border-color: #F3E9DD;
+}
+
+.custom-checkbox .custom-control-input~.custom-control-label::before {
+    background-color: #3A3845;
+    border-color: #F3E9DD;
+    border-radius: 0;
+}
+
 /* fixed top navbar only on medium and up */
 @media (min-width: 992px) {
     .fixed-top-desktop-only {
