@@ -162,3 +162,11 @@ To Deploy your app to Heroku, please follow the steps below:
 * The website has been viewed on android mobile device and IOS phone and tablet devices
 * The website has been viewed on Google Chrome, Safari and Firefox
 * Friends and family tested the website on their phones, tablets and laptops
+
+## Bugs
+
+* When user adds comments in blog post details page, message appears showing "comment awaiting moderation". Comments need to be approved in admin with superuser login
+* Watches and Blog dropdown links added to webpage as links do not open without dropdown menu
+* When users create new account doesn't send confirmation email and logs user in without verifying email
+* Blog page does not show Blog post on deployed project, appears when run project via github
+* Burger icon when collapsed covers information on pages causing poor visual experience
