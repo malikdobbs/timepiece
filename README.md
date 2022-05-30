@@ -121,3 +121,44 @@ To Deploy your app to Heroku, please follow the steps below:
 9. Beneath manaul deploy, choose your branch and select deploy branch
 10. Enable automatic deploys
 11. Your project is now deployed
+
+## Technologies Used
+
+### Langugages
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CS)
+* [JavaScript](https://www.javascript.com/)
+* [Python](https://www.python.org/)
+
+### Frameworks and Libraries
+
+* [Django](https://www.djangoproject.com/)
+* [Django-Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html/)
+* [Django-Crispy-Forms](https://django-crispy-forms.readthedocs.io/en/latest/)
+* [Jinja](https://palletsprojects.com/p/jinja/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [JQuery](https://jquery.com/)
+* [Heroku](https://www.heroku.com/)
+* [AWS](https://aws.amazon.com/)
+
+### Other technologies
+
+* [GitHub](https://github.com/)
+* [Git](https://git-scm.com/)
+* [Heroku](https://dashboard.heroku.com/)
+* [Balsamiq](https://balsamiq.com/)
+
+## Testing
+
+* W3C HTML validator
+* W3C CSS validator
+* Esprima JavaScript validator
+
+### Further Testing
+
+* The website has been viewed on android mobile device and IOS phone and tablet devices
+* The website has been viewed on Google Chrome, Safari and Firefox
+* Friends and family tested the website on their phones, tablets and laptops
