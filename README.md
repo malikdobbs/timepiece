@@ -170,3 +170,20 @@ To Deploy your app to Heroku, please follow the steps below:
 * When users create new account doesn't send confirmation email and logs user in without verifying email
 * Blog page does not show Blog post on deployed project, appears when run project via github
 * Burger icon when collapsed covers information on pages causing poor visual experience
+
+## Credit
+
+* Built the blog application using help from (https://djangocentral.com/building-a-blog-application-with-django/)and (https://github.com/LaiMo2020/V_Getable)
+* Code Institue Boutique Ado & Task Manager App - Used code walkthrough for inspiration and help coding project
+
+### Media
+
+* Images were taken from Pexels and real websites/shops
+
+## Acknowledgement
+
+* My mentor, Martina for continous support, help and advice when necessary
+
+## Disclaimer
+
+* All content used for educational purposes only
