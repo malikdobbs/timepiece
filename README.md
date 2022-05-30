@@ -88,6 +88,10 @@ Timepiece uses [Bootstrap](https://materializecss.com/) as a framework to help c
 * The navbar has a logo in the top left hand corner which if clicked, will take users back to the home page. The navbar also displays different links to the user depending on whether they're logged in or not.
 * If the user has an account and is logged in they will be able to view the following: profile page, all products, watches, accessories, jewellery and blog  dropdown navbar link, and log out. 
 * If the user is not logged into the website the links visible to them will show as follows: all products, watches, accessories, jewellery and blog  dropdown navbar link, and log in and register links.
+* Users have the ability to add and remove items from the shopping bag.
+* Users have the ability to create an account and log in to the store
+* Users can search for any of the products in the store by using keywords or the exact product they're looking for.
+* Users can see detailed information for any product they've clicked on and choose the quantity of how many items they want to purchase
 * If the user is a store owner and logged in they will have an additional link to "Product Management" so that they can add or remove products from the store
 * The website has been created to be visible and accessible on different device screens such as: Android, IOS, Windows, MacBooks and tablets.
 * All visitors can search for products on the website via the search box on all pages throughout the e-commerce store
