@@ -72,4 +72,20 @@ The Wireframes have been creating using balsamiq:
 
 * [Blog Post Page](https://github.com/malikdobbs/timepiece/blob/main/media/Blog%20Post%20Page.png)
 
+## Deployment
 
+### Heroku Deployment
+
+To Deploy your app to Heroku, please follow the steps below:
+
+1. Login to Heroku
+2. On the main dashboard, create a new app
+3. Give your app a name, select your region where you reside
+4. Select deploy tab at the top of the page and scroll down to deployment method
+5. Select GitHub as your deployment method
+6. Login using your GitHub login details
+7. Enter your username and search for the repository in the repo-name box
+8. Connect to the specific respoitory you wish to connect to
+9. Beneath manaul deploy, choose your branch and select deploy branch
+10. Enable automatic deploys
+11. Your project is now deployed
