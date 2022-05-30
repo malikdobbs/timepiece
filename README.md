@@ -1,7 +1,7 @@
-# Lilly's Kitchen
-[View the live project here](https://lillys-kitchen.herokuapp.com/index)
+# Timepiece
+[View the live project here](https://malikdobbs-timepiece.herokuapp.com/)
 
-[View the repo in GitHub](https://github.com/malikdobbs/lillys_kitchen)
+[View the repo in GitHub](https://github.com/malikdobbs/timepiece)
 
 * This is the promotional website for Timepiece. Timepiece is an watches e-commerce store where users can find luxury watches to buy and share some of their favourite watch designs with their friends, family members and anyone else. 
 
