@@ -72,6 +72,34 @@ The Wireframes have been creating using balsamiq:
 
 * [Blog Post Page](https://github.com/malikdobbs/timepiece/blob/main/media/Blog%20Post%20Page.png)
 
+## Surface
+
+### Design
+
+Timepiece uses [Bootstrap](https://materializecss.com/) as a framework to help create a beautiful website that users will enjoy viewing and using. Bootstrap helped to create the layout of the web page using divs, cards, navbars and forms for a simple, easy to use and interactive website for users to create and share recipes. Also, Google Fonts has been imported into my CSS file for good looking typography. The colour scheme I have used is to represent a  simple and classy webpage
+
+* #3A3845 is the main colour used throughout the website. This has been used as the main colour throughout the whole website and on the navbars
+* #F3E9DD is used as the font colour for most of the font throughout the website
+* Syncopate has been imported from Google for all headers and navbar elements
+* Montserrat has been imported from Google to be used as my secondary font for all other information throughout the website.
+
+## Features
+
+* The navbar has a logo in the top left hand corner which if clicked, will take users back to the home page. The navbar also displays different links to the user depending on whether they're logged in or not.
+* If the user has an account and is logged in they will be able to view the following: profile page, all products, watches, accessories, jewellery and blog  dropdown navbar link, and log out. 
+* If the user is not logged into the website the links visible to them will show as follows: all products, watches, accessories, jewellery and blog  dropdown navbar link, and log in and register links.
+* If the user is a store owner and logged in they will have an additional link to "Product Management" so that they can add or remove products from the store
+* The website has been created to be visible and accessible on different device screens such as: Android, IOS, Windows, MacBooks and tablets.
+* All visitors can search for products on the website via the search box on all pages throughout the e-commerce store
+* Registered users can edit and delete their profile information, by navigating to their profile link via the navbar and updating information if they choose to
+
+## Future Features
+
+* Create a contact us form for users to get in touch with the owner of the website if they have any complaints or feedback to provide regarding their experience using Timepiece e-commerce store
+* I would like to implement a function that allows users who have created an account to create new blog posts to share information with the community
+* I would like to incorporate a newsletter feature for users where they will receive advice on new products coming out soon, watch/jewellery care and special/promotional offers etc
+
+
 ## Deployment
 
 ### Heroku Deployment
