@@ -24,13 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-if 'DEVELOPMENT':
-    DEBUG = True
-else:
-    DEBUG = False
+DEBUG = 'FALSE'
 
-ALLOWED_HOSTS = ['malikdobbs-timepiece.herokuapp.com/', 'localhost']
-
+ALLOWED_HOSTS = ['malikdobbs-timepiece.herokuapp.com', 'localhost']
 
 # Application definition
 
