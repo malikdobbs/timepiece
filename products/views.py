@@ -49,13 +49,13 @@ def all_products(request):
     current_sorting = f'{sort}_{direction}'
 
     context = {
-        'products': products,
+        'product': product,
         'search_term': query,
         'current_category': categories,
         'current_sorting': current_sorting,
     }
 
-    return render(request, 'products/products.html', context)
+    return render(request, 'product/product.html', context)
 
 
 def product_detail(request, product_id):
