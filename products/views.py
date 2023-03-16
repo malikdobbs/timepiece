@@ -67,7 +67,7 @@ def product_detail(request, product_id):
         'product': product,
     }
 
-    return render(request, 'products/product_detail.html', context)
+    return render(request, 'products/products.html', context)
 
 @login_required
 def add_product(request):
